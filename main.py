@@ -5,7 +5,7 @@ Date: 10/30/2022
 """
 
 def math(first, second):
-    return first + second
+    return first - second  # Changed to subtraction
 
 
 def main():
